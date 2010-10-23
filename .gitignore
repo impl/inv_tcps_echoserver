@@ -1,0 +1,8 @@
+# Dependencies are automatically downloaded
+deps/
+
+# Compiled files
+*.beam
+
+# Dump/debug files
+*.dump
